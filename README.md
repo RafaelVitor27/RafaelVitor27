@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindo viajante, oque te trás a um lugar como esse? ⚖️ ⚰️
 
-<!--
-**RafaelVitor27/RafaelVitor27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é 𝕽𝖆𝖋𝖆𝖊𝖑 𝕸𝖆𝖗𝖙𝖎𝖓𝖘
 
-Here are some ideas to get you started:
+- Estou estudando na ![**𝕒𝕝𝕦𝕣𝕒**](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem **_𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽_**
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+- 
+- ### Você pode entrar em contato comigo 📭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **_rafael.martins.mariano@escola.pr.gov.br_**
+
+- **@ℛ𝒶𝒻𝒶ℯ𝓁𝒱𝒾𝓉ℴ𝓇27**
+
+![](https://media.tenor.com/HoQpGvRufrEAAAAd/musashi-miyamoto.gif)
